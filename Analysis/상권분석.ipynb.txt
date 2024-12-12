@@ -1,1 +1,0 @@
-상권분석.ipynb는 용량이 커서 main branch에만 올렸습니다.
